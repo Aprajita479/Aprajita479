@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 ## Tech Stack
-* 💻 C++ | C# | Java |  Python 
+* 💻 C++ | C | Java |  Python 
 * 🛢️  SQL   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprajita479&hide_langs_below=1)](https://github.com/aprajita479/github-readme-stats)
