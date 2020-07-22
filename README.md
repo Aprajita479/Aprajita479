@@ -3,7 +3,6 @@
 Hello I am Aprajita from Birla Institute of Technology,Mesra. I like experimenting with new technologies, building small projects.
 Here are some ideas to get you started:
 
-[![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479)](https://github.com/aprajita479/github-readme-stats)
 <!--![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479&hide=["contribs","prs"])
 ![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479&show_icons=true)
 ![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479&show_icons=true&theme=radical)-->
@@ -17,10 +16,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/aprajita479/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aprajita479&repo=convoychat" />
 </a>     --->
-
+[![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479)](https://github.com/aprajita479/github-readme-stats)
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 ## Here's a list of things I currently keep myself busy with:
 * 🌱 Working as a frontened developer  
 * 💼 I'm currently learning ** Data Structures & Algorithms**
+
 
 ## Tech Stack
 * 💻 C++ | C# | Java |  Python 
