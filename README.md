@@ -1,4 +1,4 @@
-### Hi I am Aprajita 👋
+### Hi I am Aprajita <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Hello I am Aprajita from Birla Institute of Technology,Mesra. I like experimenting with new technologies, building small projects.
 Here are some ideas to get you started:
@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/aprajita479/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aprajita479&repo=convoychat" />
 </a>     --->
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+Visitors count    
+![VisitorCount](https://profile-counter.glitch.me/Aprajita479/count.svg)
 [![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479)](https://github.com/aprajita479/github-readme-stats)
 <p align=center>
 <b>Let's create something awesome together!</b> <br>
