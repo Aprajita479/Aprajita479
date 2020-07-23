@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 </a>     --->
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 Visitors count    
-![VisitorCount](https://profile-counter.glitch.me/Aprajita479/count.svg)
-[![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479)](https://github.com/aprajita479/github-readme-stats)
+![VisitorCount](https://profile-counter.glitch.me/Aprajita479/count.svg)     
+
+[![Aprajita's github stats](https://github-readme-stats.vercel.app/api?username=aprajita479)](https://github.com/aprajita479/github-readme-stats)   
+
 <p align=center>
 <b>Let's create something awesome together!</b> <br>
 <a href="http://aprajita479.github.io/">My Website</a> · <a href="https://www.linkedin.com/in/aprajita-kumari-6b1b571b0/">LinkedIn</a> · <a href="aprajitakumari479@gmail.com">Email</a> 
