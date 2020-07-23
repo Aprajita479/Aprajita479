@@ -35,5 +35,4 @@ Visitors count
 <b>Let's create something awesome together!</b> <br>
 <a href="http://aprajita479.github.io/">My Website</a> · <a href="https://www.linkedin.com/in/aprajita-kumari-6b1b571b0/">LinkedIn</a> · <a href="aprajitakumari479@gmail.com">Email</a> 
 </p>
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
