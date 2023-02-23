@@ -1,5 +1,4 @@
-
-![Logo](https://github.com/Aprajita479/Aprajita479/blob/master/github-header-image.png)
+<img src="https://github.com/Aprajita479/Aprajita479/blob/master/github-header-image.png" alt="banner">
 <h1 align="center">Hi 👋, I'm Aprajita Kumari</h1>
 <h3 align="center">A Web Developer, Software Engineer from India</h3>
 
