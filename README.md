@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprajita479&label=Profile%20views&color=0e75b6&style=flat" alt="aprajita479" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps,Flutter and Docker**
 
 - 📫 How to reach me **aprajitakumari479@gmail.com**
 
@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/callbackterror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callbackterror" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aprajita-kumari-6b1b571b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aprajita-kumari-6b1b571b0/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/aprajitakumari41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aprajitakumari41" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
