@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprajita479&label=Profile%20views&color=0e75b6&style=flat" alt="aprajita479" /> </p>
 
-- 🌱 I’m currently learning **DevOps,Flutter and Docker**
+- 🌱 I’m currently learning **DevOps and Flutter**
 
 - 📫 How to reach me **aprajitakumari479@gmail.com**
 
